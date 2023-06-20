@@ -1,8 +1,13 @@
 #include <stdio.h>
-/*
- * main - entry point
- * return - always returns 0 (success)
+/**
+ * main - Entry point for the program
+ *
+ * Description: This program demonstrates the usage of the puts() function
+ *              to print a string to the console.
+ *
+ * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
